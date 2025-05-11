@@ -3,7 +3,7 @@
 ## Overview
 This project extends the DP-3T protocol to build a **proximity graph** of COVID-19 positive users and their verified contacts. The graph is intended as a privacy-preserving epidemiological tool, enabling researchers to study virus spread without compromising user anonymity.
 
-IT IS A UNIVERSITY PROJECT DEVELOPED IN COLLABORATION WITH: Rispoli Mario, Ruggiero Valeria, Russo Gabriele Luigi, Silla Marta
+**IT IS A UNIVERSITY PROJECT DEVELOPED IN COLLABORATION WITH: Rispoli Mario, Ruggiero Valeria, Russo Gabriele Luigi, Silla Marta**
 
 ---
 
